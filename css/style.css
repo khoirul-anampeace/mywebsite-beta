@@ -423,7 +423,8 @@ nav ul li a:hover::after {
     visibility: hidden;
   }
   #about,
-  #experience {
+  #experience,
+  #portfolio{
     padding: 60px 20px;
   }
   #about h1 {
