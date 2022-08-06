@@ -20,12 +20,19 @@ html {
 }
 .container h1 {
   font-size: 28px;
-  color: #000000;
+  color: #505050;
   margin-bottom: 10px;
+}
+.container h2 {
+  color: #505050;
 }
 .container h3 {
   font-size: 18px;
   font-weight: 400;
+  color: #505050;
+}
+.container p {
+  color: #505050;
 }
 .btn {
   padding: 10px 30px;
@@ -166,6 +173,7 @@ nav ul li a:hover::after {
 #home .scrollDown p {
   padding: 0;
   margin: 5px 0;
+  color: #fff;
 }
 #home .scrollDown .mouse {
   margin: 0px auto;
@@ -288,11 +296,12 @@ nav ul li a:hover::after {
   padding: 6px 5px;
   font-size: 18px;
   border-radius: 50%;
+  color: #505050;
   background-color: #fefeff;
 }
 
 #experience .expe-box .box-academic .text-detail .tahun {
-  color: #808080;
+  color: #c7b5b5;
 }
 /* Responsive Tablet */
 @media screen and (max-width: 768px) {
