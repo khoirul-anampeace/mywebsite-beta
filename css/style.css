@@ -240,10 +240,10 @@ nav ul li a:hover::after {
   border-radius: 80px 0 0 80px;
 }
 #about .row .about-text .about-text-skills .percent #v1 {
-  background-color: #ffd15c;
+  background-color: #e34c26;
 }
 #about .row .about-text .about-text-skills .percent #v2 {
-  background-color: #ff4c60;
+  background-color: #3c99dc;
 }
 #about .row .about-text .about-text-skills .percent #v3 {
   background-color: #f0db4f;
